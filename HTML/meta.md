@@ -1,10 +1,17 @@
-<h2>BASIC META TAGS</h2>
-
+### BASIC META TAGS
+```
 <!--     Define keywords for search engines -->
+
 <meta name="keywords" content="your, tags" />
+
+
 <!--     Define a description of your web page -->
+
 <meta name="description" content="150 words" />
+
+
 <!--     Refresh document every 30 seconds -->
+
 <meta http-equiv="refresh" content="30">
 <meta name="subject" content="your website's subject">
 <meta name="copyright" content="company name">
@@ -15,7 +22,10 @@
 <meta name="topic" content="">
 <meta name="summary" content="">
 <meta name="Classification" content="Business">
+
+
 <!--     Define the author of a page -->
+
 <meta name="author" content="name, email@hotmail.com">
 <meta name="designer" content="">
 <meta name="copyright" content="">
@@ -32,3 +42,4 @@
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
+```
