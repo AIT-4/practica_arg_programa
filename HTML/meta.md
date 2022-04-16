@@ -1,5 +1,5 @@
 ### BASIC META TAGS
-```
+```HTML
 <!--     Define keywords for search engines -->
 
 <meta name="keywords" content="your, tags" />
