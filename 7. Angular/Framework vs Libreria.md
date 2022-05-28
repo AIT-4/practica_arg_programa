@@ -28,5 +28,5 @@ Ejemplos:
 - [Moment.js](https://momentjs.com/): Librería que nos permite resolver problemas e implementa un sistema de manejo de Fechas y Tiempo.
 - [Bootstrap](https://getbootstrap.com/): Framework para frontend
 - [Ionic.js](https://ionicframework.com/): Framework para el desarrollo frontend de aplicaciones móviles.
-- [Moment.js](https://momentjs.com/)
+- [Angular](https://angular.io/): Framework para frontend
 
